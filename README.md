@@ -7,3 +7,6 @@ supported hardware.
 
 NiceHash Miner Legacy is open source at
 <https://github.com/nicehash/NiceHashMinerLegacy>.
+
+The NiceHash protocols are documented at
+<https://github.com/nicehash/Specifications>.
